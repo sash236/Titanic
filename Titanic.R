@@ -101,7 +101,7 @@ plot(fit, uniform=TRUE)
 print(fit) # view results
 importance(fit) # importance of each predictor
 
-==================== forest of conditional inference trees===================
+#==================== forest of conditional inference trees===================
 
 install.packages('party')
 library(party)
