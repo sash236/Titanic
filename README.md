@@ -1,4 +1,4 @@
-Titanic: Machine Learning from Disaster challenge
-Wrote R codes to predict survivors with RandomForest. 
-Kaggle profile is at  bit.ly/Kagg123
+#Titanic: Machine Learning from Disaster challenge
+Wrote R code to predict survivors with Random Forest. 
+Kaggle profile is at http://bit.ly/Kagg123
 
